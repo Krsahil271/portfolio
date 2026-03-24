@@ -3,11 +3,11 @@ import "./Achievements.css";
 export default function Achievements() {
 
   const certificates = [
-    { img: "/certificates/cert1.png", name: "NPTEL Online Certification" },
-    { img: "/certificates/cert2.jpeg", name: "Tranning in DSA using C++" },
-    { img: "/certificates/cert3.jpeg", name: "Infosys GPT prompt Certificate" },
-    { img: "/certificates/cert4.jpeg", name: "Infosys Computational Theory Certificate" },
-    { img: "/certificates/cert5.jpeg", name: "Built Generative & AI Certificate" }
+    { img: "/certificates/ChatGPT.png", name: "Udemy ChatGpt" },
+    { img: "/certificates/Training_cert.png", name: "Training in OOPS using C++" },
+    { img: "/certificates/Google_BitsandBytes.png", name: "Google Bits and Bytes certificate" },
+    { img: "/certificates/infosys_computational.png", name: "Infosys Computational Theory Certificate" },
+    { img: "/certificates/build generative.png", name: "Built Generative & AI Certificate" }
   ];
 
   return (
